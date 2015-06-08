@@ -13,3 +13,5 @@ def q3_func():
 
 
 print "log_5(sqrt(5^7)):", q3_func()
+
+
