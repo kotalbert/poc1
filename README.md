@@ -1,9 +1,9 @@
 # poc1
 Principles of Computing (Part 1)
 
--Homework assignments
-	-hw1.py
-	-hw2.py
+* Homework assignments
+	* hw1.py
+	* hw2.py
 
 0. Practice Activities
 	0. Solitaire Mancala
